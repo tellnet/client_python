@@ -1,11 +1,13 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-
+# Copyright (C) owned by Pablo Fernandez Fernandez
+# All rights reserved (including reproduce, distribute or create derivatives,
+#  unless explicitly granted otherwise)
 
 # Changelog
 #
 # v0.4 - 2018-02-25 - Pablo Fernandez
-#  - Prep for public release
+#  - Prep for public release, licensed
 #  - Moved config to a file
 #
 # v0.3 - 2018-02-18 - Pablo Fernandez
